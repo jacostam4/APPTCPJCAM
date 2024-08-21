@@ -24,7 +24,7 @@ public class Servidor extends javax.swing.JFrame {
     private ServerSocket serverSocket;
     private List<PrintWriter> clientes;
     /**
-     * Creates new form Servidor
+     * Creates new form Servidor asdasd
      */
     public Servidor() {
         initComponents();
